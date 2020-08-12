@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Images"
+  ],
+  "author": "Leidy Esteban",
+  "license": "MIT",
+  "dependencies": {
+    "cool-images": "^1.0.3",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4"
+  }
+}
